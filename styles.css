@@ -5,3 +5,7 @@ html, body, section {
 .bg-dark {
     background: #212224 !important;
 }
+
+.bg-extra-dark {
+    background: #030303 !important;
+}
